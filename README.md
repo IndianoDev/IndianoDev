@@ -16,21 +16,19 @@ Atualmente, foco meus estudos e projetos na **Universidade de Brasília (UnB)**,
 
 ## 🛠️ Tecnologias & Ferramentas
 
-| Categoria | Tecnologias |
-| :--- | :--- |
-| **Frontend** | `React` `Next.js` `TailwindCSS` `Axios` |
-| **Backend** | `Python (OO)` `Node.js` `Firebase` |
-| **Dados** | `SQL` `MySQL` `PostgreSQL` |
-| **Ferramentas** | `Git` `GitHub` `Docker` `Vercel` |
+### Frontend & Mobile
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
+### Backend & Data
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffca28)
 
-## 📂 Projetos em Destaque
-- **🏛️ API Deputados:** Aplicação para consulta de dados públicos em tempo real usando Next.js e integrações de API.
-- **🐍 Python OO:** Scripts e sistemas focados em arquitetura de objetos e lógica avançada desenvolvidos na UnB.
-- **📱 Web & Mobile:** Projetos responsivos utilizando React e Firebase.
-
----
+### Ferramentas & Metodologias
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📫 Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juancosta)
